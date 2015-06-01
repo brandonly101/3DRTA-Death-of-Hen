@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: bbf5ef8d9ac7c4d4d8f1f35ce576980a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ear_left
+    100004: ear_right
+    100006: Elk
+    100008: //RootNode
+    100010: head
+    100012: head_nose
+    100014: jaw
+    100016: leg_back_ankle_left
+    100018: leg_back_ankle_right
+    100020: leg_back_knee_left
+    100022: leg_back_knee_right
+    100024: leg_back_thigh_left
+    100026: leg_back_thigh_right
+    100028: leg_front_ankle_left
+    100030: leg_front_ankle_right
+    100032: leg_front_knee_left
+    100034: leg_front_knee_right
+    100036: leg_front_thigh_left
+    100038: leg_front_thigh_right
+    100040: neck
+    100042: pelvis
+    100044: root_ground
+    100046: root_hips
+    100048: spine_lower
+    100050: spine_upper
+    100052: tail_1
+    400000: Armature
+    400002: ear_left
+    400004: ear_right
+    400006: Elk
+    400008: //RootNode
+    400010: head
+    400012: head_nose
+    400014: jaw
+    400016: leg_back_ankle_left
+    400018: leg_back_ankle_right
+    400020: leg_back_knee_left
+    400022: leg_back_knee_right
+    400024: leg_back_thigh_left
+    400026: leg_back_thigh_right
+    400028: leg_front_ankle_left
+    400030: leg_front_ankle_right
+    400032: leg_front_knee_left
+    400034: leg_front_knee_right
+    400036: leg_front_thigh_left
+    400038: leg_front_thigh_right
+    400040: neck
+    400042: pelvis
+    400044: root_ground
+    400046: root_hips
+    400048: spine_lower
+    400050: spine_upper
+    400052: tail_1
+    4300000: Elk
+    9500000: //RootNode
+    13700000: Elk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root_ground
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

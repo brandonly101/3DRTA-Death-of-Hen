@@ -1,0 +1,25 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b
+
+newmtl leaves
+	Ns 29.999998
+	Ni 1.500000
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\leaves_color.jpg
+	map_Kd maps\leaves_color.jpg
+	map_bump maps\leaves_bump.jpg
+	bump maps\leaves_bump.jpg
+
+newmtl crown
+	Ns 5.000000
+	Ni 1.500000
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\crown_color.jpg
+	map_Kd maps\crown_color.jpg
+	map_bump maps\crown_bump.jpg
+	bump maps\crown_bump.jpg

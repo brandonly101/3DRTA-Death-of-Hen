@@ -1,0 +1,55 @@
+--------------------------------
+----------- CREDITS ------------
+--------------------------------
+
+Creative Inspiriation:
+- Half Life: Full Life Consequences - by Various Authors (https://www.youtube.com/watch?v=OHxyZaZlaOs)
+- DOOM: Repercussions of evil Gmod - by riff1 and Various Authors (https://www.youtube.com/watch?v=0R0ZZF4O0K4)
+
+3D Model Assets:
+- 'Brown Bear' (bear KDk) by umar6419 (http://tf3dm.com/3d-model/brown-bear-17385.html)
+- 'Bucket 3D Model' (bucket) by StDes (http://archive3d.net/?a=download&id=3affbf49)
+- 'Dog' (dog) by silviuq12 (http://tf3dm.com/3d-model/dog-19722.html)
+- 'Eagle 3' (eagle 3) by umar6419 (http://tf3dm.com/3d-model/eagle-3-42527.html)
+- 'Elk' by Ubisoft (http://tf3dm.com/3d-model/elk-28686.html)
+- 'old house 3' (haus) by signSTUDIOS (http://www.cgtrader.com/free-3d-models/architectural-exterior/historic/old-house-3)
+- 'Robot Jasubot-PRO01' (Jasubot-Pro01) by jasubi (http://tf3dm.com/3d-model/jasubot-pro01-20918.html)
+- 'Laurel Wreath' (laurel_wreath) by Luxxeon (http://www.sharecg.com/v/75579/browse/5/3D-Model/Laurel-Wreath-Head-Piece)
+- 'White Tiger' by umar6419 (http://tf3dm.com/3d-model/white-tiger-52898.html)
+- 'Owl' (owl) by Belgioioso Banfi (http://archive3d.net/?a=download&id=f48d6b70)
+- 'low-poly rock' (Rock1) by tyrosmith (http://tf3dm.com/3d-model/low-poly-rock-4631.html)
+- 'Rooster' (rooster) by azlyirnizam (http://tf3dm.com/3d-model/rooster-48617.html)
+- 'sheep' (sheep) by umar6419 (http://tf3dm.com/3d-model/sheep-90154.html)
+- 'Wolf' (wolf) by umar6419 (http://tf3dm.com/3d-model/wolf-91025.html)
+- 'Fennec Fox (Adult)' (Fennec-Fox.skp) by Xaya (https://3dwarehouse.sketchup.com/model.html?id=e41b944458b7f1e9a41ee40a079fcc6)
+- 'Laboratory Mouse' (lab_mouse_polygon_reduced.skp) by noske (https://3dwarehouse.sketchup.com/model.html?id=cd85b451b581bfa63ae8506a3f0e18a4)
+- 'Mountains' (mountain.skp) by dalton (https://3dwarehouse.sketchup.com/model.html?id=e89370230e367f7a96640c28308a33fb)
+- 'Rest in Peace' (rip.skp) by follmar (https://3dwarehouse.sketchup.com/model.html?id=b0eeeb62bf2fdac7a637b939e5f722ce)
+- 'Wheat1' (wheat.skp) by bokinovisad (https://3dwarehouse.sketchup.com/model.html?id=7b8d91da29f96e7ce7b8ba67db451f0d)
+- 'Meta Peanut' by WilliamAAdams (http://www.thingiverse.com/thing:14249/#files)
+- 'Chiken' by azlyirnizam (http://tf3dm.com/3d-model/chiken-27963.html)
+- 'Medieval Buildings Sample Model' by Pure3D (http://www.cgtrader.com/free-3d-models/architectural-exterior/historic/free-medieval-buildings-sample-model)
+- 'Big Oak Tree' by Darrell Smith (https://3dwarehouse.sketchup.com/model.html?redirect=1&mid=b9053e0358952c197d3730bedbe55ca&prevstart=0)
+- 'Wagon 3D Model' by Canella Guido (http://archive3d.net/?a=download&id=a5f9d3b6)
+- 'Cottage House' by animatedheaven (http://tf3dm.com/3d-model/cottage-house-90488.html)
+- 'Apple' by 3dregenerator (http://tf3dm.com/3d-model/apple-51047.html)
+
+Unity Asset Store Objects:
+- 'Forester Pro Sycamore' by HPTWare
+- 'Nature textures pack' by Nobias / Yughues
+- 'Medieval Environment' by Anchor game
+- 'Raw Mocap Data for Mecanim 1.1' by Unity Technologies
+- 'Traditional Water Well' by 3DMondra
+- 'Medieval Toon House' by Night Forest
+- 'Animated Horse' by Dootsy Development
+- 'Female Character Pack' by Mixamo
+- 'Sky5X One 1' by RKD
+
+Audio Assets:
+- 'Wilhelm Scream' by probably Sheb Wooley (http://en.wikipedia.org/wiki/Wilhelm_scream)
+- Various Tracks from Ren and Stimpy Production Music Soundtrack
+- 'Batman punch' from SoundBible.com
+
+Other Assets
+- 'cameraFade.cs' (renamed to screenFader.cs) by Kentyman (http://wiki.unity3d.com/index.php?title=FadeInOut)
+- 'waveGen.cs' by RabbidCabbage (http://answers.unity3d.com/questions/443031/sinus-for-rolling-waves.html?sort=oldest)

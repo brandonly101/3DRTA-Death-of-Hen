@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Scene 10 1
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.98205566, y: 3.64597726, z: -5.83227539}
+        inSlope: {x: 0, y: -1.1920929e-07, z: 0}
+        outSlope: {x: 0, y: -1.1920929e-07, z: 0}
+        tangentMode: -6764616
+      - time: 2
+        value: {x: -2.98205566, y: 3.64597702, z: -5.83227539}
+        inSlope: {x: 0, y: -4.25747473e-08, z: 0}
+        outSlope: {x: 0, y: -4.25747473e-08, z: 0}
+        tangentMode: 59
+      - time: 9
+        value: {x: -2.98205566, y: 3.64597726, z: -5.83227539}
+        inSlope: {x: 0, y: 3.40597985e-08, z: 0}
+        outSlope: {x: 0, y: 3.40597985e-08, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Camera
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.55004883, y: 0, z: -2.68994141}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 214706596
+      - time: 2
+        value: {x: 6.55004883, y: 0, z: -2.68994141}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -.230004877, y: .0159999989, z: .349994123}
+        tangentMode: 17
+      - time: 7
+        value: {x: 4.25, y: .159999996, z: .810000002}
+        inSlope: {x: -.460009754, y: .0319999978, z: .699988246}
+        outSlope: {x: -.460009754, y: .0319999978, z: .699988246}
+        tangentMode: 195406544
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Rooster Anim
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 286894960
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1018227507
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 9
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.98205566
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: -2.98205566
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 9
+        value: -2.98205566
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Camera
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.64597726
+        inSlope: -1.1920929e-07
+        outSlope: -1.1920929e-07
+        tangentMode: 10
+      - time: 2
+        value: 3.64597702
+        inSlope: -4.25747473e-08
+        outSlope: -4.25747473e-08
+        tangentMode: 10
+      - time: 9
+        value: 3.64597726
+        inSlope: 3.40597985e-08
+        outSlope: 3.40597985e-08
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Camera
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -5.83227539
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: -5.83227539
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 9
+        value: -5.83227539
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Camera
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6.55004883
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 6.55004883
+        inSlope: 0
+        outSlope: -.230004877
+        tangentMode: 5
+      - time: 7
+        value: 4.25
+        inSlope: -.460009754
+        outSlope: -.460009754
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Rooster Anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: .0159999989
+        tangentMode: 5
+      - time: 7
+        value: .159999996
+        inSlope: .0319999978
+        outSlope: .0319999978
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Rooster Anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.68994141
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: -2.68994141
+        inSlope: 0
+        outSlope: .349994123
+        tangentMode: 5
+      - time: 7
+        value: .810000002
+        inSlope: .699988246
+        outSlope: .699988246
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Rooster Anim
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events:
+  - time: 0
+    functionName: scene_10_1_roosterGoesToGrave
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2
+    functionName: scene_10_1_roosterMovesOnTop
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 7
+    functionName: scene_10_1_roosterIsOnTop
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

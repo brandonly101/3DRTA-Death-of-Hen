@@ -1,0 +1,35 @@
+////////////////////////////////////////////////////////////////
+//// Punchlist - Grimm 80 - The Death of the Little Hen ////////
+////////////////////////////////////////////////////////////////
+
+Finish up other scenes - Well, I need to finish the other scenes, so...
+
+Make Ragdoll Physics work with animating - I want to figure out a way to make objects
+	react to ragdoll physics even as they're animated. Otherwise, I must figure out a
+	way to animate characters in scenes without Unity's default animation tool.
+ 
+Make things look less like Unity - Make my animation look less like Unity, of course!
+	I intend to use different skyboxes, different grasses, and different trees, ideally.
+	I might use out-of-place objects (like modern city buildings and stuff I guess).
+
+Find background music - I want to use some nice 90s-era cartoon music (or some other
+	funny, sarcastic music to use) to complement my animation and add to the 
+	style of it.
+
+Decicde between narrating myself or text-to-speech - I recently got feedback about my
+	animation from classmates, and they mentioned that the thing that really gave it its
+	charm was the text-to-speech I used for the scenes. This poses a dilemma for me. I
+	originally wanted to narrate the animation myself in a funny voice, but if the
+	text-to-speech works better, then I might go down that road myself.
+
+Figure out a way to use my 'buffRooster' model - For some reason, whenever I load
+	my 'buffRooster' model it lags Unity ... I want to use this for a specific
+	scene and need to figure out how to 'unlag' it. Otherwise, I'll have to figure something
+	else out.
+
+Find out way to import Witcher 2 Models - I found really cool and nice models I would
+	like to use from the Witcher 2 video game! Thankfully, CD Projekt RED, the developers
+	of the game, officially permit use of their models, etc so long as it is not for
+	commercial reasons. At the moment, I am trying to find a way to convert the raw
+	exports of the models that I have right now into compatible model formats (fbx, obj, etc)
+	to use with my animation.
