@@ -1,7 +1,4 @@
-----------------------------------------------------------------
---- 3D REAL-TIME ANIMATION - "THE LITTLE ROOSTER AND LITTLE ----
---- HEN: ADVENTURES AT THE TOP OF NUT MOUNTAIN -----------------
-----------------------------------------------------------------
+# 3D REAL-TIME ANIMATION - "THE LITTLE ROOSTER AND LITTLE HEN: ADVENTURES AT THE TOP OF NUT MOUNTAIN
 
 Produced by: Brandon Ly
 
@@ -12,7 +9,7 @@ Based on the Grimm Fairy Tale "Death of the Little Hen"
 This is a project that I worked on for an elective, special topics
 course at UCLA, specializing in 3D Real-time Animation.
 
-I used the Unity 3D Game Engine (version 4.7.6 at time of production) to create
+I used the Unity 3D Game Engine (version 4.6.1 at time of production) to create
 and produce the animation; I programmed C# scripts, imported 3D models of various
 formats, and scripted model and scene animations to create and direct the scenes
 of my animation. I also did the narration and image text using a voice recorder
@@ -23,9 +20,12 @@ credits for this project, please refer to the credits section of this readme.
 
 ---
 
---------------------------------
------- MID-WAY PUNCHLIST -------
---------------------------------
+
+# MID-WAY PUNCHLIST
+
+I created a punchlist halfway through the production of this animation. This punchlist denotes reamining tasks to complete my half-finished animation.
+
+...
 
 Finish up other scenes - Well, I need to finish the other scenes, so...
 
@@ -59,19 +59,19 @@ Find out way to import Witcher 2 Models - I found really cool and nice models I 
     exports of the models that I have right now into compatible model formats (fbx, obj, etc)
     to use with my animation.
 
---------------------------------
------------ CREDITS ------------
---------------------------------
+---
+
+# CREDITS
 
 Copyright 2015 Brandon Ly All Rights Reserved.
 
-Copyright to all the respective creators and owners of all assets used in this project.
+All separate works and assets are used in this project with respect to the copyright policies of their respective owners.
 
-Creative Inspiriation:
+## Creative Inspiriation
 - Half Life: Full Life Consequences - by Various Authors (https://www.youtube.com/watch?v=OHxyZaZlaOs)
 - DOOM: Repercussions of evil Gmod - by riff1 and Various Authors (https://www.youtube.com/watch?v=0R0ZZF4O0K4)
 
-3D Model Assets:
+## 3D Model Assets
 - 'Brown Bear' (bear KDk) by umar6419 (http://tf3dm.com/3d-model/brown-bear-17385.html)
 - 'Bucket 3D Model' (bucket) by StDes (http://archive3d.net/?a=download&id=3affbf49)
 - 'Dog' (dog) by silviuq12 (http://tf3dm.com/3d-model/dog-19722.html)
@@ -99,7 +99,7 @@ Creative Inspiriation:
 - 'Cottage House' by animatedheaven (http://tf3dm.com/3d-model/cottage-house-90488.html)
 - 'Apple' by 3dregenerator (http://tf3dm.com/3d-model/apple-51047.html)
 
-Unity Asset Store Objects:
+## Unity Asset Store Objects
 - 'Forester Pro Sycamore' by HPTWare
 - 'Nature textures pack' by Nobias / Yughues
 - 'Medieval Environment' by Anchor game
@@ -110,11 +110,11 @@ Unity Asset Store Objects:
 - 'Female Character Pack' by Mixamo
 - 'Sky5X One 1' by RKD
 
-Audio Assets:
+## Audio Assets
 - 'Wilhelm Scream' by probably Sheb Wooley (http://en.wikipedia.org/wiki/Wilhelm_scream)
 - Various Tracks from Ren and Stimpy Production Music Soundtrack
 - 'Batman punch' from SoundBible.com
 
-Other Assets
+## Other Assets
 - 'cameraFade.cs' (renamed to screenFader.cs) by Kentyman (http://wiki.unity3d.com/index.php?title=FadeInOut)
 - 'waveGen.cs' by RabbidCabbage (http://answers.unity3d.com/questions/443031/sinus-for-rolling-waves.html?sort=oldest)
